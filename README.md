@@ -1,5 +1,4 @@
 ## Hi there 👋, I'm Luca Schmidt
----
 M.Sc. in Autonomous Systems
 
 <!--
