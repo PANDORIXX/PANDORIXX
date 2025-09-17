@@ -10,7 +10,7 @@
 |__/  |__/ \_______/|__/|__/ \______/          \___/  |__/  |__/ \_______/|__/       \_______/    　  └┐▒▒▒▒┌
 ```
 # I'm Luca (aka PANDORIXX) 🐼
-<table>
+<table border="0">
   <tr>
     <td>
       M. Sc. in Autonomous Systems
