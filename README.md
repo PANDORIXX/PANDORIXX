@@ -18,3 +18,4 @@
 
 ### 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=PANDORIXX&show_icons=true&theme=radical)
+Help me improve my score by giving a star to my recent project [PLAMOTO](https://github.com/PANDORIXX/PLAMOTO)
