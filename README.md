@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Luca Schmidt
+## Hi there 👋, I'm Luca
 M.Sc. in Autonomous Systems
 
 ---
