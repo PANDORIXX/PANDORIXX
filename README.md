@@ -16,7 +16,7 @@
       M. Sc. in Autonomous Systems
     </td>
     <td>
-       <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="100">
+       <img src="[https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif](https://giphy.com/gifs/tczJoRU7XwBS8)" width="100">
     </td>
   </tr>
 </table>
