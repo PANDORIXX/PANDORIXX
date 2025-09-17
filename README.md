@@ -14,8 +14,7 @@ M. Sc. in Autonomous Systems
 
 ![](https://komarev.com/ghpvc/?username=PANDORIXX&color=orange)
 
-### 👤 Contact me for collabs or freelancer inquiries
-
+### 👤 [Contact me](mailto:luca.contact.work@gmail.com) for collabs or freelancer inquiries
 
 ---
 
