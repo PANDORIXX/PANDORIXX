@@ -16,7 +16,7 @@ M. Sc. in Autonomous Systems
 
 ---
 
-### Tech Stack
+### 💻 Tech Stack
 
 
 --- 
