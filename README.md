@@ -10,8 +10,8 @@
 |__/  |__/ \_______/|__/|__/ \______/          \___/  |__/  |__/ \_______/|__/       \_______/    　  └┐▒▒▒▒┌
 ```
 # I'm Luca, alias PANDORIXX 🐼
+M. Sc. in Autonomous Systems  
 ![](https://komarev.com/ghpvc/?username=PANDORIXX&color=orange)
-M. Sc. in Autonomous Systems
 
 ---
 
