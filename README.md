@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋, I'm Luca Schmidt
+---
+M.Sc. in Autonomous Systems
 
 <!--
 **PANDORIXX/PANDORIXX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
