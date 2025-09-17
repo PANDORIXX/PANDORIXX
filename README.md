@@ -19,7 +19,7 @@ M. Sc. in Autonomous Systems
 ---
 
 ### 💻 Tech Stack
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&style=for-the-badge)
+![Python](https://img.shields.io/badge/-Python-orange?logo=python&style=for-the-badge)
 
 --- 
 
