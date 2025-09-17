@@ -14,6 +14,9 @@ M. Sc. in Autonomous Systems
 
 ![](https://komarev.com/ghpvc/?username=PANDORIXX&color=orange)
 
+### 👤 Contact me for collabs or freelancer inquiries
+
+
 ---
 
 ### 💻 Tech Stack
@@ -23,6 +26,8 @@ M. Sc. in Autonomous Systems
 
 ### 📊 GitHub Stats
 ![PANDORIXX's Stats](https://github-readme-stats.vercel.app/api?username=PANDORIXX&theme=radical&show_icons=true&hide_border=false&count_private=true)
+
+---
 
 ### 🌟 Recent Project
 Help me improve my score by giving a star to my recent project:
