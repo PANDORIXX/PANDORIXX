@@ -22,7 +22,7 @@ M. Sc. in Autonomous Systems
 --- 
 
 ### 📊 GitHub Stats
-![PANDORIXX's Stats](https://github-readme-stats.vercel.app/api?username=PANDORIXX&theme=great-gatsby&show_icons=true&hide_border=true&count_private=true)
+![PANDORIXX's Stats](https://github-readme-stats.vercel.app/api?username=PANDORIXX&theme=radical&show_icons=true&hide_border=false&count_private=true)
 
 ### 🌟 Recent Project
 Help me improve my score by giving a star to my recent project:
