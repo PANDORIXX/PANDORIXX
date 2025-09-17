@@ -27,6 +27,6 @@ M. Sc. in Autonomous Systems
 ### 🌟 Recent Project
 Help me improve my score by giving a star to my recent project:
 
-[![PLAMOTO](https://img.shields.io/badge/PLAMOTO-GitHub-blue?logo=github&style=for-the-badge)](https://github.com/PANDORIXX/PLAMOTO)
+[![PLAMOTO](https://img.shields.io/badge/PLAMOTO-GitHub-orange?logo=github&style=for-the-badge)](https://github.com/PANDORIXX/PLAMOTO)
 
 You're awesome!
