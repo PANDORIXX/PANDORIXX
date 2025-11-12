@@ -19,8 +19,10 @@ M. Sc. in Autonomous Systems
 ---
 
 ### 💻 Tech Stack
-<img src="https://img.shields.io/badge/-Python-orange?logo=python&style=for-the-badge" alt="Python" />
-<img src="https://img.shields.io/badge/-SQL-orange?logo=postgresql&style=for-the-badge" alt="SQL" />
+<p align="center" style="pointer-events: none;">
+  <img src="https://img.shields.io/badge/-Python-orange?logo=python&style=for-the-badge" alt="Python" style="pointer-events:none; margin: 5px;">
+  <img src="https://img.shields.io/badge/-SQL-orange?logo=postgresql&style=for-the-badge" alt="SQL" style="pointer-events:none; margin: 5px;">
+</p>
 
 --- 
 
