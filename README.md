@@ -19,9 +19,12 @@ M. Sc. in Autonomous Systems
 ---
 
 ### 💻 Tech Stack
-<p align="center" style="pointer-events: none;">
-  <img src="https://img.shields.io/badge/-Python-orange?logo=python&style=for-the-badge" alt="Python" style="pointer-events:none; margin: 5px;">
-  <img src="https://img.shields.io/badge/-SQL-orange?logo=postgresql&style=for-the-badge" alt="SQL" style="pointer-events:none; margin: 5px;">
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="50" height="50" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="50" height="50" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="50" height="50" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="50" height="50" style="margin: 10px;" />
 </p>
 
 --- 
