@@ -19,32 +19,31 @@ M. Sc. in Autonomous Systems
 ---
 
 ### 💻 Tech Stack
-<p align="left">
-  <span style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python" />
-    <br><sub><b>Python</b></sub>
-  </span>
+<table>
+  <tr>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python"/><br>
+      <sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" alt="SQL"/><br>
+      <sub><b>SQL</b></sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" alt="C"/><br>
+      <sub><b>C</b></sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git"/><br>
+      <sub><b>Git</b></sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" alt="Linux"/><br>
+      <sub><b>Linux</b></sub>
+    </td>
+  </tr>
+</table>
 
-  <span style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" alt="SQL" />
-    <br><sub><b>SQL</b></sub>
-  </span>
-
-  <span style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" alt="C" />
-    <br><sub><b>C</b></sub>
-  </span>
-
-  <span style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git" />
-    <br><sub><b>Git</b></sub>
-  </span>
-
-  <span style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" alt="Linux" />
-    <br><sub><b>Linux</b></sub>
-  </span>
-</p>
 --- 
 
 ### 📊 GitHub Stats
